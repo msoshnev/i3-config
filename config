@@ -761,8 +761,6 @@ bindsym $mod+R exec "rofi -show run"
 # scareenshot
 bindsym Print exec --no-startup-id flameshot gui
 
-
 # PATH
-
 exec "export PATH=$PATH:$HOME/Jetbrains/pycharm/bin"
 
